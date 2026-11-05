@@ -1,4 +1,4 @@
-# MATLAB-Project-1
+# Router-Network-Linear-Systems
 
 An applied linear algebra project modeling a network of routers as a system of linear equations, solved using multiple methods to analyze data flow and generate network optimization recommendations.
 
